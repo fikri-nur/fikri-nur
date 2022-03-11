@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amiruddin Fikri Nur
+- 🌱 Malang State Polytechnic student
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Malang State Polytechnic
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
 
