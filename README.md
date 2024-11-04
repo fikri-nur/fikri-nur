@@ -3,9 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I like to explore new technologies
-- 🎓 &nbsp;I'm currently studying Business Information System at State Polytechnic of Malang
+- 🎓 &nbsp;I'm Bachelor of Applied Business Information System at State Polytechnic of Malang
 - 👀 &nbsp;I'm interested in programming
-- 🎮 &nbsp;In my free time, I play games as a hobby
 - 💬 &nbsp;Feel free to ask me about anything
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
